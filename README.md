@@ -6,5 +6,7 @@
 </ol>
 <h3>Progress</h3>
 <ul>
-	<li>In browser console check the "hello react & redux" output text.</li>
+	<li>In console check two objects with array</li>
+	<li>First object is cards array with dispatched data</li>
+	<li>Second object is also cards array but at this point with two elements in array</li>
 </ul>
